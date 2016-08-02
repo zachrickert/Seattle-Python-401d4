@@ -4,7 +4,7 @@ from random import randint
 
 
 ROWS = 5
-COLUMNS = 12
+COLUMNS = 5
 TURNS = 4
 
 
