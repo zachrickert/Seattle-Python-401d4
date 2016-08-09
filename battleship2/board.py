@@ -38,7 +38,7 @@ class Board():
                 if row == -2:
                     if column == 0:
                         print("    ", end="")
-                    print ("{}{}".format(column + 1, " " * whitespace), end="")
+                    print("{}{}".format(column + 1, " " * whitespace), end="")
                 elif row == -1:
                     if column == 0:
                         print("   ", end="")
